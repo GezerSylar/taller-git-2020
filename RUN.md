@@ -1,1 +1,3 @@
-nstrucciones para ejecutar
+Instrucciones para ejecutar
+
+instrucciones dadas para funcionar
